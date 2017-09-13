@@ -20,6 +20,8 @@ Answering to make a commit! :D\
 What are some situations when branches would be helpful in keeping your history\
 organized? How would branches help?\
 \
+Answering to make a second commit! :D\
+\
 How do the diagrams help you visualize the branch structure?\
 \
 What is the result of merging two branches together? Why do we represent it in\
